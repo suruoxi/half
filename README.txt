@@ -1,6 +1,6 @@
 Notes
 ---------------
-
+IEEE 754-based half-precision floating point library forked from http://half.sourceforge.net/.
 
 
 HALF-PRECISION FLOATING POINT LIBRARY (Version 1.12.0)
